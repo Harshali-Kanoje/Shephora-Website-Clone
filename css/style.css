@@ -24,4 +24,30 @@
 .nav-bg{
     background-color: #f3f3f3;
 }
+.card-body p{
+   
+    margin: 0;
+    font-size: 15px;
+}
+
+.form input{
+    border: none;
+    margin-left: 15px;
+    width: 130px;
+}
+
+@media screen and (max-width:600px){
+    .fa-star{
+        font-size: 10px;
+        }
+
+    .span1{
+        font-size: 11px;
+    }
+
+    .login i{
+        font-size: 13px;
+    }
+}
+
 
