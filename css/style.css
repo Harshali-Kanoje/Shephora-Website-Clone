@@ -1,6 +1,9 @@
 .container i{
     color: #ec008c;
 }
+body{
+    background-color: black;
+}
 
 .bg-pink{
     color: rgb(244, 107, 130);
